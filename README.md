@@ -1,6 +1,6 @@
 # NinjaRipper's 2 NR to OBJ converter
 
-<img width="813" height="546" alt="Screenshot (3137)" src="https://github.com/user-attachments/assets/daf2e944-b774-42d2-a9d1-10a578d68cf5" />
+<img width="1084" height="486" alt="Screenshot (3138)" src="https://github.com/user-attachments/assets/89f2c7e1-f374-4bf6-88f5-28c3f0cc3de7" />
 
 -NinjaRipper version 2.0.0 and above only-
 
